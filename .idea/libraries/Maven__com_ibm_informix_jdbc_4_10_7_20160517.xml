@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="Maven: com.ibm.informix:jdbc:4.10.7.20160517">
+    <CLASSES>
+      <root url="jar://$MAVEN_REPOSITORY$/com/ibm/informix/jdbc/4.10.7.20160517/jdbc-4.10.7.20160517.jar!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$MAVEN_REPOSITORY$/com/ibm/informix/jdbc/4.10.7.20160517/jdbc-4.10.7.20160517-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$MAVEN_REPOSITORY$/com/ibm/informix/jdbc/4.10.7.20160517/jdbc-4.10.7.20160517-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>
